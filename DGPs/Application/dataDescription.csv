@@ -1,0 +1,58 @@
+Name;Description
+Y_ndx_loss;NASDAQ 100 loss returns in %.
+ndx_loss_l1;NASDAQ 100 loss returns first lag  in %.
+ndx_loss_l2;NASDAQ 100 loss returns second lag  in %.
+ndx_vol;NASDAQ 100 trading volume.
+aex_return;Amsterdam Exchange IndeX returns in %.
+gdaxi_return;Deutscher AktieindeX returns in %.
+hsi_return;Hang Seng Index returns in %.
+topx_return;Tokyo Stock Price Index returns in %.
+rut_return;Russell 2000 Index returns in %.
+ssec_return;Shanghai SSE Composite Index returns in %.
+irts_return;Moscow RTS Index returns in %.
+n100_return;Euronext 100 Index returns in %.
+vix_return;CBOE Volatility Index returns in %.
+mktrf;Fama French market-minus-risk free factor in %.
+smb;Fama French small-minus-big factor in %.
+hml;Fama French high-minus-low factor in %.
+rmw;Fama French robust-minus-weak factor in %.
+cma;Fama French conservative-minus-aggressive factor in %.
+rf;Fama French risk free rate in %.
+umd;Fama French up-minus-down factor in %.
+dxy_return;US Dollar Index returns in %.
+oil_return;Crude Oil Front Month Futures returns in %. 
+gold_return;Gold Front Month Futures returns in %.
+wheat_return;Wheat Front Month Futures returns in %.
+silver_return;Silver Front Month Futures returns in %.
+natgas_return;Natural Gas Front Month Futures returns in %.
+libor_1m;USD London Interbank Offered Rate at 1-month maturity in %.
+libor_3m;USD London Interbank Offered Rate at 3-months maturity in %.
+libor_6m;USD London Interbank Offered Rate at 6-months maturity in %.
+fedrate;US Federal Funds effective rate in %.
+baa10y;Spread between BAA corporate bond and 10-year treasury yield in %.
+ust1m;US Treasury yield at 1-month constant maturity in %.
+ust3m;US Treasury yield at 3-months constant maturity in %.
+ust1y;US Treasury yield at 1-year constant maturity in %.
+ust2y;US Treasury yield at 2-years constant maturity in %.
+ust5y;US Treasury yield at 5-years constant maturity in %.
+ust10y;US Treasury yield at 10-years constant maturity in %.
+ust20y;US Treasury yield at 20-years constant maturity in %.
+ust30y;US Treasury yield at 30-years constant maturity in %.
+capacity_monthly;US Capacity Utilization monthly growth in %.
+capacity_yoy;US Capacity Utilization year-on-year growth in %.
+energy_monthly;Global Price of Energy Index monthly growth in %.
+energy_yoy;Global Price of Energy Index year-on-year growth in %.
+housing_monthly;New Privately-Owned Housing Units monthly growth in %.
+housing_yoy;New Privately-Owned Housing Units year-on-year growth in %.
+unemp_monthly;Unemployment Rate monthly growth in %.
+unemp_yoy;Unemployment Rate year-on-year growth in %.
+manufac_monthly;US Manufacturer's New Orders monthly growth in %.
+manufac_yoy;US Manufacturer's New Orders year-on-year growth in %.
+m2_monthly;US Money Supply monthly growth in %.
+m2_yoy;US Money Supply year-on-year growth in %.
+indpro_monthly;US Industrial Production Index monthly growth in %.
+indpro_yoy;US Industrial Production Index year-on-year growth in %.
+cpi_monthly;US Consumer Price Index monthly growth in %.
+cpi_yoy;US Consumer Price Index year-on-year growth in %.
+gdp_quarterly;US Gross Domestic Product quarterly growth in %.
+gdp_yoy;US Gross Domestic Product year-on-year growth in %.

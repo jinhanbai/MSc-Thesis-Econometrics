@@ -1,0 +1,52 @@
+Name;Description
+Y_ndq_loss;NASDAQ 100 loss returns in %
+ndq_loss_l1;NASDAQ 100 loss returns first lag  in %
+ndq_loss_l2;NASDAQ 100 loss returns second lag  in %
+ndq_vol;NASDAQ 100 trading volume 
+aex_return;Amsterdam Exchange IndeX returns in %
+gdaxi_return;Deutscher AktieindeX returns in %
+hsi_return;Hang Seng Index returns in %
+n225_return;Nikkei 225 Index returns in %
+rut_return;Russell 2000 Index returns in %
+vix;CBOE Volatility Index
+mktrf;Fama French market-minus-risk free factor in %
+smb;Fama French small-minus-big factor in %
+hml;Fama French high-minus-low factor in %
+rmw;Fama French robust-minus-weak factor in %
+cma;Fama French conservative-minus-aggressive factor in %
+rf;Fama French risk free rate in %
+umd;Fama French up-minus-down factor in %
+oil_return;Crude Oil Front Month Futures returns in % 
+gold_return;Gold Front Month Futures returns in %
+wheat_return;Wheat Front Month Futures returns in %
+silver_return;Silver Front Month Futures returns in %
+natgas_return;Natural Gas Front Month Futures returns in %
+tedspread;Spread between 3-month LIBOR and 3- month US Treasury rates in %
+fedrate;US Federal Funds effective rate in %
+baa10y;Spread between BAA corporate bond and 10-year treasury yield in %
+ust1m;US Treasury yield at 1-month constant maturity in %
+ust3m;US Treasury yield at 3-months constant maturity in %
+ust1y;US Treasury yield at 1-year constant maturity in %
+ust2y;US Treasury yield at 2-years constant maturity in %
+ust5y;US Treasury yield at 5-years constant maturity in %
+ust10y;US Treasury yield at 10-years constant maturity in %
+ust20y;US Treasury yield at 20-years constant maturity in %
+ust30y;US Treasury yield at 30-years constant maturity in %
+capacity_monthlygrowth;US Capacity Utilization monthly growth in %
+capacity_yoygrowth;US Capacity Utilization year-on-year growth in %
+energy_monthlygrowth;Global Price of Energy Index monthly growth in %
+energy_yoygrowth;Global Price of Energy Index year-on-year growth in %
+housing_monthlygrowth;New Privately-Owned Housing Units monthly growth in %
+housing_yoygrowth;New Privately-Owned Housing Units year-on-year growth in %
+unemp_monthlygrowth;Unemployment Rate monthly growth in %
+unemp_yoygrowth;Unemployment Rate year-on-year growth in %
+manufac_monthlygrowth;US Manufacturer's New Orders monthly growth in %
+manufac_yoygrowth;US Manufacturer's New Orders year-on-year growth in %
+m2_monthlygrowth;US Money Supply monthly growth in %
+m2_yoygrowth;US Money Supply year-on-year growth in %
+indpro_monthlygrowth;US Industrial Production Index monthly growth in %
+indpro_yoygrowth;US Industrial Production Index year-on-year growth in %
+cpi_monthlygrowth;US Consumer Price Index monthly growth in %
+cpi_yoygrowth;US Consumer Price Index year-on-year growth in %
+gdp_quarterlygrowth;US Gross Domestic Product quarterly growth in %
+gdp_yoygrowth;US Gross Domestic Product year-on-year growth in %
