@@ -14,7 +14,6 @@
   - [data_gen.R](#datagenr)
   - [test_significance.R](#test_significancer)
   - [sim.R](#simr)
-  - [box_plots.R](#box_plotsr)
 - [Application](#application)
   - [backtest.R](#backtestr)
   - [application_main.R](#application_mainr)
@@ -65,23 +64,11 @@ Script to perform statistical tests for performance differences.
 ### sim.R
 General functions to run the simulation studies.
 
-### process_sim_results.R
-Processes simulation results and converts to tables.
-
-### process_sim_results2.R
-Processes simulation results and converts to tables.
-
-### box_plots.R
-Generates boxplots to display ISRE results.
-
 ## Application
 Scripts related to application studies.
 
 ### backtest.R
 Run Christoffersen backtesting procedure.
-
-### plot_preds_app.R
-Making plots related to application studies.
 
 ### application_main.R
 Main script to run application studies.
