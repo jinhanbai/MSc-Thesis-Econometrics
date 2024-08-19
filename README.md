@@ -1,4 +1,4 @@
-# Quantifying Financial Resilience: Tail Risk Assessment in High-Dimensional Predictor Spaces Leveraging Extreme Value Theory and Random Forests
+# Extreme Quantile Inference Using Mixed Forests Models
 
 ## Table of Contents
 - [General Scripts](#general-scripts)
